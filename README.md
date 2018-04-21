@@ -1,2 +1,2 @@
 # mathlogic
-Task from mathlogic course
+Task from mathlogic course.Implemented simple sequential
